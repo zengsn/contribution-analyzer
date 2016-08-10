@@ -8,8 +8,10 @@ public class Test1 {
 
 	public static void main(String[] args) throws IOException {
 		JsonData json=new JsonData();
-		json.test();
-
+		//json.actor();
+		//json.repo();
+		//json.issue();
+	
 	}
 
 }
