@@ -2,16 +2,20 @@ package edu.hzu.github;
 
 import java.io.IOException;
 
-import edu.hzu.github.JsonData;
-
 public class Test1 {
 
 	public static void main(String[] args) throws IOException {
-		JsonData.user();
-		JsonData.repo();
-		JsonData.repodataforks();
-		JsonData.repodatawatchers();
-		JsonData.repodataopen_issues();
+JsonData.user();
+//JsonData.repo();
+    //JsonData.repoage();
+//    JsonData.repostar();
+	//JsonData.usercommit();
+		//JsonData.userchangefile();
+		//JsonData.userfollowers();
+		//JsonData.usertest_inclusion();
+		//JsonData.userpull_comments();
+	//JsonData.userfollowing_user();
 	}
-
+	
+	
 }

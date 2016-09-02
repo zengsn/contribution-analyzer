@@ -1,0 +1,9 @@
+{
+  "test_inclusion" : false,
+  "followers" : 4,
+  "pull_changed_files" : 4,
+  "user_name" : "duralog",
+  "following_user" : "false",
+  "pull_comments" : 7,
+  "pull_commits" : 10
+}

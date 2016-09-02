@@ -1,0 +1,9 @@
+{
+  "test_inclusion" : false,
+  "followers" : 30,
+  "pull_changed_files" : 10,
+  "user_name" : "jcrist",
+  "following_user" : "false",
+  "pull_comments" : 4,
+  "pull_commits" : 3
+}

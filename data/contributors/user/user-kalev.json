@@ -1,0 +1,9 @@
+{
+  "test_inclusion" : false,
+  "followers" : 8,
+  "pull_changed_files" : 9,
+  "user_name" : "kalev",
+  "following_user" : "false",
+  "pull_comments" : 8,
+  "pull_commits" : 3
+}

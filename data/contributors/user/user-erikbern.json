@@ -1,0 +1,9 @@
+{
+  "test_inclusion" : false,
+  "followers" : 30,
+  "pull_changed_files" : 5,
+  "user_name" : "erikbern",
+  "following_user" : "false",
+  "pull_comments" : 3,
+  "pull_commits" : 2
+}
