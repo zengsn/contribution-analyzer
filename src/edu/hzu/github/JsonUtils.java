@@ -4,8 +4,8 @@ package edu.hzu.github;
 import java.io.ByteArrayInputStream;
 import java.io.IOException;
 import java.io.UnsupportedEncodingException;
-import java.util.ArrayList;
 import java.util.HashMap;
+import java.util.List;
 import java.util.Map;
 
 import org.codehaus.jackson.JsonFactory;
@@ -16,10 +16,7 @@ import org.codehaus.jackson.map.ObjectMapper;
 import org.codehaus.jackson.map.ObjectWriter;
 import org.codehaus.jackson.type.TypeReference;
 
-/**
- * @author zengsn
- * @since 7.0
- */
+
 public abstract class JsonUtils {
 
 	public static String toString(Object result) {
@@ -73,14 +70,14 @@ public abstract class JsonUtils {
 		return null;
 	}
 
-	public static Map<String, Object> toList(String json) {
+	public static List<Map<String, Object>> toList(String json) {
 		JsonFactory factory = new JsonFactory();
 		ObjectMapper mapper = new ObjectMapper(factory);
-		TypeReference<ArrayList<HashMap<String, Object>>> typeRef = //
-		new TypeReference<ArrayList<HashMap<String, Object>>>() {
-		};
+		TypeReference<List<Map<String, Object>>> typeRef = //
+				new TypeReference<List<Map<String, Object>>>() {
+				};
 		try {
-			HashMap<String, Object> map = mapper.readValue( //
+			List<Map<String, Object>> map = mapper.readValue( //
 					new ByteArrayInputStream( //
 							json.getBytes("UTF-8")), //
 					typeRef);

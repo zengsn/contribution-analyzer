@@ -1,15 +1,7 @@
-/**
- * 基于GitHub的实验教学代码。<br />
- * By 惠州学院 曾少宁
- */
+
 package edu.hzu.github;
 
-/**
- * GitHub Apt路径。
- * 
- * @author zengsn
- * @since 8.0
- */
+
 public interface Api {
 	public static final String HTTPS = "https://";
 	public static final String GIT = "api.github.com";
