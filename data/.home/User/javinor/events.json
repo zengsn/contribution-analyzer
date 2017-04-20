@@ -1,0 +1,1255 @@
+[ {
+  "id" : "5224636742",
+  "type" : "CreateEvent",
+  "actor" : {
+    "id" : 5766483,
+    "login" : "javinor",
+    "display_login" : "javinor",
+    "gravatar_id" : "",
+    "url" : "https://api.github.com/users/javinor",
+    "avatar_url" : "https://avatars.githubusercontent.com/u/5766483?"
+  },
+  "repo" : {
+    "id" : 80221697,
+    "name" : "javinor/jonathanavinor.com",
+    "url" : "https://api.github.com/repos/javinor/jonathanavinor.com"
+  },
+  "payload" : {
+    "ref" : "master",
+    "ref_type" : "branch",
+    "master_branch" : "master",
+    "description" : null,
+    "pusher_type" : "user"
+  },
+  "public" : true,
+  "created_at" : "2017-01-27T15:59:49Z"
+}, {
+  "id" : "5224635235",
+  "type" : "CreateEvent",
+  "actor" : {
+    "id" : 5766483,
+    "login" : "javinor",
+    "display_login" : "javinor",
+    "gravatar_id" : "",
+    "url" : "https://api.github.com/users/javinor",
+    "avatar_url" : "https://avatars.githubusercontent.com/u/5766483?"
+  },
+  "repo" : {
+    "id" : 80221697,
+    "name" : "javinor/jonathanavinor.com",
+    "url" : "https://api.github.com/repos/javinor/jonathanavinor.com"
+  },
+  "payload" : {
+    "ref" : null,
+    "ref_type" : "repository",
+    "master_branch" : "master",
+    "description" : null,
+    "pusher_type" : "user"
+  },
+  "public" : true,
+  "created_at" : "2017-01-27T15:59:37Z"
+}, {
+  "id" : "5224289607",
+  "type" : "PushEvent",
+  "actor" : {
+    "id" : 5766483,
+    "login" : "javinor",
+    "display_login" : "javinor",
+    "gravatar_id" : "",
+    "url" : "https://api.github.com/users/javinor",
+    "avatar_url" : "https://avatars.githubusercontent.com/u/5766483?"
+  },
+  "repo" : {
+    "id" : 80216803,
+    "name" : "javinor/react-lifecycle-visualization",
+    "url" : "https://api.github.com/repos/javinor/react-lifecycle-visualization"
+  },
+  "payload" : {
+    "push_id" : 1524395770,
+    "size" : 1,
+    "distinct_size" : 1,
+    "ref" : "refs/heads/master",
+    "head" : "5fa254d305cc2d336b2d6ca3a9e3c4ab76616830",
+    "before" : "b91fcc1a19c85917a8a0991f4b95a1a2cd7e04d9",
+    "commits" : [ {
+      "sha" : "5fa254d305cc2d336b2d6ca3a9e3c4ab76616830",
+      "author" : {
+        "email" : "javinor@gmail.com",
+        "name" : "javinor"
+      },
+      "message" : "delete uneeded folder",
+      "distinct" : true,
+      "url" : "https://api.github.com/repos/javinor/react-lifecycle-visualization/commits/5fa254d305cc2d336b2d6ca3a9e3c4ab76616830"
+    } ]
+  },
+  "public" : true,
+  "created_at" : "2017-01-27T15:04:51Z"
+}, {
+  "id" : "5224278924",
+  "type" : "CreateEvent",
+  "actor" : {
+    "id" : 5766483,
+    "login" : "javinor",
+    "display_login" : "javinor",
+    "gravatar_id" : "",
+    "url" : "https://api.github.com/users/javinor",
+    "avatar_url" : "https://avatars.githubusercontent.com/u/5766483?"
+  },
+  "repo" : {
+    "id" : 80216803,
+    "name" : "javinor/react-lifecycle-visualization",
+    "url" : "https://api.github.com/repos/javinor/react-lifecycle-visualization"
+  },
+  "payload" : {
+    "ref" : "master",
+    "ref_type" : "branch",
+    "master_branch" : "master",
+    "description" : null,
+    "pusher_type" : "user"
+  },
+  "public" : true,
+  "created_at" : "2017-01-27T15:03:09Z"
+}, {
+  "id" : "5224276877",
+  "type" : "CreateEvent",
+  "actor" : {
+    "id" : 5766483,
+    "login" : "javinor",
+    "display_login" : "javinor",
+    "gravatar_id" : "",
+    "url" : "https://api.github.com/users/javinor",
+    "avatar_url" : "https://avatars.githubusercontent.com/u/5766483?"
+  },
+  "repo" : {
+    "id" : 80216803,
+    "name" : "javinor/react-lifecycle-visualization",
+    "url" : "https://api.github.com/repos/javinor/react-lifecycle-visualization"
+  },
+  "payload" : {
+    "ref" : null,
+    "ref_type" : "repository",
+    "master_branch" : "master",
+    "description" : null,
+    "pusher_type" : "user"
+  },
+  "public" : true,
+  "created_at" : "2017-01-27T15:02:50Z"
+}, {
+  "id" : "5088302367",
+  "type" : "PushEvent",
+  "actor" : {
+    "id" : 5766483,
+    "login" : "javinor",
+    "display_login" : "javinor",
+    "gravatar_id" : "",
+    "url" : "https://api.github.com/users/javinor",
+    "avatar_url" : "https://avatars.githubusercontent.com/u/5766483?"
+  },
+  "repo" : {
+    "id" : 74339405,
+    "name" : "javinor/snake-solver",
+    "url" : "https://api.github.com/repos/javinor/snake-solver"
+  },
+  "payload" : {
+    "push_id" : 1479248046,
+    "size" : 1,
+    "distinct_size" : 1,
+    "ref" : "refs/heads/master",
+    "head" : "eb61f8e0fa8f817c50637992a26854d299284c21",
+    "before" : "92b4e3b13c719d14ffdec52c23f3669f64fb0bea",
+    "commits" : [ {
+      "sha" : "eb61f8e0fa8f817c50637992a26854d299284c21",
+      "author" : {
+        "email" : "javinor@gmail.com",
+        "name" : "javi"
+      },
+      "message" : "Update README.md",
+      "distinct" : true,
+      "url" : "https://api.github.com/repos/javinor/snake-solver/commits/eb61f8e0fa8f817c50637992a26854d299284c21"
+    } ]
+  },
+  "public" : true,
+  "created_at" : "2016-12-31T17:57:32Z"
+}, {
+  "id" : "4964414584",
+  "type" : "PushEvent",
+  "actor" : {
+    "id" : 5766483,
+    "login" : "javinor",
+    "display_login" : "javinor",
+    "gravatar_id" : "",
+    "url" : "https://api.github.com/users/javinor",
+    "avatar_url" : "https://avatars.githubusercontent.com/u/5766483?"
+  },
+  "repo" : {
+    "id" : 74339405,
+    "name" : "javinor/snake-solver",
+    "url" : "https://api.github.com/repos/javinor/snake-solver"
+  },
+  "payload" : {
+    "push_id" : 1436440273,
+    "size" : 1,
+    "distinct_size" : 1,
+    "ref" : "refs/heads/master",
+    "head" : "92b4e3b13c719d14ffdec52c23f3669f64fb0bea",
+    "before" : "2487ba7781b81a3ab5cb5c9e74794bde46f6b82f",
+    "commits" : [ {
+      "sha" : "92b4e3b13c719d14ffdec52c23f3669f64fb0bea",
+      "author" : {
+        "email" : "javinor@gmail.com",
+        "name" : "javinor"
+      },
+      "message" : "minor",
+      "distinct" : true,
+      "url" : "https://api.github.com/repos/javinor/snake-solver/commits/92b4e3b13c719d14ffdec52c23f3669f64fb0bea"
+    } ]
+  },
+  "public" : true,
+  "created_at" : "2016-12-03T19:19:00Z"
+}, {
+  "id" : "4964409518",
+  "type" : "PushEvent",
+  "actor" : {
+    "id" : 5766483,
+    "login" : "javinor",
+    "display_login" : "javinor",
+    "gravatar_id" : "",
+    "url" : "https://api.github.com/users/javinor",
+    "avatar_url" : "https://avatars.githubusercontent.com/u/5766483?"
+  },
+  "repo" : {
+    "id" : 74339405,
+    "name" : "javinor/snake-solver",
+    "url" : "https://api.github.com/repos/javinor/snake-solver"
+  },
+  "payload" : {
+    "push_id" : 1436438129,
+    "size" : 3,
+    "distinct_size" : 3,
+    "ref" : "refs/heads/master",
+    "head" : "2487ba7781b81a3ab5cb5c9e74794bde46f6b82f",
+    "before" : "d7e607c7047983b2adeda92d98055d245407fd72",
+    "commits" : [ {
+      "sha" : "1382e87a136398c82d19ef3540bdb2e16d2d88fa",
+      "author" : {
+        "email" : "javinor@gmail.com",
+        "name" : "javinor"
+      },
+      "message" : "pass vectors instead of spreading them",
+      "distinct" : true,
+      "url" : "https://api.github.com/repos/javinor/snake-solver/commits/1382e87a136398c82d19ef3540bdb2e16d2d88fa"
+    }, {
+      "sha" : "aaf5efa6c1aac81c75171dbcb40d6ee2c715ff9c",
+      "author" : {
+        "email" : "javinor@gmail.com",
+        "name" : "javinor"
+      },
+      "message" : "minor renaming",
+      "distinct" : true,
+      "url" : "https://api.github.com/repos/javinor/snake-solver/commits/aaf5efa6c1aac81c75171dbcb40d6ee2c715ff9c"
+    }, {
+      "sha" : "2487ba7781b81a3ab5cb5c9e74794bde46f6b82f",
+      "author" : {
+        "email" : "javinor@gmail.com",
+        "name" : "javinor"
+      },
+      "message" : "clean up refactoring",
+      "distinct" : true,
+      "url" : "https://api.github.com/repos/javinor/snake-solver/commits/2487ba7781b81a3ab5cb5c9e74794bde46f6b82f"
+    } ]
+  },
+  "public" : true,
+  "created_at" : "2016-12-03T19:15:40Z"
+}, {
+  "id" : "4964394170",
+  "type" : "PushEvent",
+  "actor" : {
+    "id" : 5766483,
+    "login" : "javinor",
+    "display_login" : "javinor",
+    "gravatar_id" : "",
+    "url" : "https://api.github.com/users/javinor",
+    "avatar_url" : "https://avatars.githubusercontent.com/u/5766483?"
+  },
+  "repo" : {
+    "id" : 74339405,
+    "name" : "javinor/snake-solver",
+    "url" : "https://api.github.com/repos/javinor/snake-solver"
+  },
+  "payload" : {
+    "push_id" : 1436431769,
+    "size" : 1,
+    "distinct_size" : 1,
+    "ref" : "refs/heads/master",
+    "head" : "d7e607c7047983b2adeda92d98055d245407fd72",
+    "before" : "71b435cf2875817125594b027d15b56f76e53790",
+    "commits" : [ {
+      "sha" : "d7e607c7047983b2adeda92d98055d245407fd72",
+      "author" : {
+        "email" : "javinor@gmail.com",
+        "name" : "javinor"
+      },
+      "message" : "fix cube constructor",
+      "distinct" : true,
+      "url" : "https://api.github.com/repos/javinor/snake-solver/commits/d7e607c7047983b2adeda92d98055d245407fd72"
+    } ]
+  },
+  "public" : true,
+  "created_at" : "2016-12-03T19:05:53Z"
+}, {
+  "id" : "4964381464",
+  "type" : "PushEvent",
+  "actor" : {
+    "id" : 5766483,
+    "login" : "javinor",
+    "display_login" : "javinor",
+    "gravatar_id" : "",
+    "url" : "https://api.github.com/users/javinor",
+    "avatar_url" : "https://avatars.githubusercontent.com/u/5766483?"
+  },
+  "repo" : {
+    "id" : 74339405,
+    "name" : "javinor/snake-solver",
+    "url" : "https://api.github.com/repos/javinor/snake-solver"
+  },
+  "payload" : {
+    "push_id" : 1436426244,
+    "size" : 1,
+    "distinct_size" : 1,
+    "ref" : "refs/heads/master",
+    "head" : "71b435cf2875817125594b027d15b56f76e53790",
+    "before" : "aa6ac97bc406e4f1a15c5c38c640b6618cb7bedf",
+    "commits" : [ {
+      "sha" : "71b435cf2875817125594b027d15b56f76e53790",
+      "author" : {
+        "email" : "javinor@gmail.com",
+        "name" : "javinor"
+      },
+      "message" : "linting",
+      "distinct" : true,
+      "url" : "https://api.github.com/repos/javinor/snake-solver/commits/71b435cf2875817125594b027d15b56f76e53790"
+    } ]
+  },
+  "public" : true,
+  "created_at" : "2016-12-03T18:57:12Z"
+}, {
+  "id" : "4964366318",
+  "type" : "PushEvent",
+  "actor" : {
+    "id" : 5766483,
+    "login" : "javinor",
+    "display_login" : "javinor",
+    "gravatar_id" : "",
+    "url" : "https://api.github.com/users/javinor",
+    "avatar_url" : "https://avatars.githubusercontent.com/u/5766483?"
+  },
+  "repo" : {
+    "id" : 74339405,
+    "name" : "javinor/snake-solver",
+    "url" : "https://api.github.com/repos/javinor/snake-solver"
+  },
+  "payload" : {
+    "push_id" : 1436419841,
+    "size" : 2,
+    "distinct_size" : 2,
+    "ref" : "refs/heads/master",
+    "head" : "aa6ac97bc406e4f1a15c5c38c640b6618cb7bedf",
+    "before" : "a26927eaa377e24027ac171b7f66d8828c414681",
+    "commits" : [ {
+      "sha" : "43065c7febf28206c22ba6b208ec041e318be1a7",
+      "author" : {
+        "email" : "javinor@gmail.com",
+        "name" : "javinor"
+      },
+      "message" : "minor reordering",
+      "distinct" : true,
+      "url" : "https://api.github.com/repos/javinor/snake-solver/commits/43065c7febf28206c22ba6b208ec041e318be1a7"
+    }, {
+      "sha" : "aa6ac97bc406e4f1a15c5c38c640b6618cb7bedf",
+      "author" : {
+        "email" : "javinor@gmail.com",
+        "name" : "javinor"
+      },
+      "message" : "minor rename of function",
+      "distinct" : true,
+      "url" : "https://api.github.com/repos/javinor/snake-solver/commits/aa6ac97bc406e4f1a15c5c38c640b6618cb7bedf"
+    } ]
+  },
+  "public" : true,
+  "created_at" : "2016-12-03T18:47:29Z"
+}, {
+  "id" : "4964347297",
+  "type" : "PushEvent",
+  "actor" : {
+    "id" : 5766483,
+    "login" : "javinor",
+    "display_login" : "javinor",
+    "gravatar_id" : "",
+    "url" : "https://api.github.com/users/javinor",
+    "avatar_url" : "https://avatars.githubusercontent.com/u/5766483?"
+  },
+  "repo" : {
+    "id" : 74339405,
+    "name" : "javinor/snake-solver",
+    "url" : "https://api.github.com/repos/javinor/snake-solver"
+  },
+  "payload" : {
+    "push_id" : 1436411446,
+    "size" : 2,
+    "distinct_size" : 2,
+    "ref" : "refs/heads/master",
+    "head" : "a26927eaa377e24027ac171b7f66d8828c414681",
+    "before" : "4f5557179b5102afa419c15771b7b7a1e9138208",
+    "commits" : [ {
+      "sha" : "0253c273c169b2a616f268c6cd08608fdaec3ae6",
+      "author" : {
+        "email" : "javinor@gmail.com",
+        "name" : "javinor"
+      },
+      "message" : "refactor unit vectors and names to seperate files",
+      "distinct" : true,
+      "url" : "https://api.github.com/repos/javinor/snake-solver/commits/0253c273c169b2a616f268c6cd08608fdaec3ae6"
+    }, {
+      "sha" : "a26927eaa377e24027ac171b7f66d8828c414681",
+      "author" : {
+        "email" : "javinor@gmail.com",
+        "name" : "javinor"
+      },
+      "message" : "vector functions to accept vectors",
+      "distinct" : true,
+      "url" : "https://api.github.com/repos/javinor/snake-solver/commits/a26927eaa377e24027ac171b7f66d8828c414681"
+    } ]
+  },
+  "public" : true,
+  "created_at" : "2016-12-03T18:34:48Z"
+}, {
+  "id" : "4964325384",
+  "type" : "PushEvent",
+  "actor" : {
+    "id" : 5766483,
+    "login" : "javinor",
+    "display_login" : "javinor",
+    "gravatar_id" : "",
+    "url" : "https://api.github.com/users/javinor",
+    "avatar_url" : "https://avatars.githubusercontent.com/u/5766483?"
+  },
+  "repo" : {
+    "id" : 74339405,
+    "name" : "javinor/snake-solver",
+    "url" : "https://api.github.com/repos/javinor/snake-solver"
+  },
+  "payload" : {
+    "push_id" : 1436401855,
+    "size" : 4,
+    "distinct_size" : 4,
+    "ref" : "refs/heads/master",
+    "head" : "4f5557179b5102afa419c15771b7b7a1e9138208",
+    "before" : "c6f71ee1094fa6a4fcea9c3fa6a24c71c865c1c0",
+    "commits" : [ {
+      "sha" : "f1367f3a6bf7e7ae87e43b96ebe88aba7fe91aba",
+      "author" : {
+        "email" : "javinor@gmail.com",
+        "name" : "javinor"
+      },
+      "message" : "working solution for 4x4x4",
+      "distinct" : true,
+      "url" : "https://api.github.com/repos/javinor/snake-solver/commits/f1367f3a6bf7e7ae87e43b96ebe88aba7fe91aba"
+    }, {
+      "sha" : "a5f4df81129cb1f01ad971d6353f467a2557f950",
+      "author" : {
+        "email" : "javinor@gmail.com",
+        "name" : "javinor"
+      },
+      "message" : "add npm-check",
+      "distinct" : true,
+      "url" : "https://api.github.com/repos/javinor/snake-solver/commits/a5f4df81129cb1f01ad971d6353f467a2557f950"
+    }, {
+      "sha" : "6bfa7c44631918e83d02169138d1f7e1a2b05a4b",
+      "author" : {
+        "email" : "javinor@gmail.com",
+        "name" : "javinor"
+      },
+      "message" : "compact code with reducer",
+      "distinct" : true,
+      "url" : "https://api.github.com/repos/javinor/snake-solver/commits/6bfa7c44631918e83d02169138d1f7e1a2b05a4b"
+    }, {
+      "sha" : "4f5557179b5102afa419c15771b7b7a1e9138208",
+      "author" : {
+        "email" : "javinor@gmail.com",
+        "name" : "javinor"
+      },
+      "message" : "minor refactor to output",
+      "distinct" : true,
+      "url" : "https://api.github.com/repos/javinor/snake-solver/commits/4f5557179b5102afa419c15771b7b7a1e9138208"
+    } ]
+  },
+  "public" : true,
+  "created_at" : "2016-12-03T18:20:44Z"
+}, {
+  "id" : "4964309193",
+  "type" : "PushEvent",
+  "actor" : {
+    "id" : 5766483,
+    "login" : "javinor",
+    "display_login" : "javinor",
+    "gravatar_id" : "",
+    "url" : "https://api.github.com/users/javinor",
+    "avatar_url" : "https://avatars.githubusercontent.com/u/5766483?"
+  },
+  "repo" : {
+    "id" : 73973006,
+    "name" : "javinor/eslint-config-javi",
+    "url" : "https://api.github.com/repos/javinor/eslint-config-javi"
+  },
+  "payload" : {
+    "push_id" : 1436394696,
+    "size" : 1,
+    "distinct_size" : 1,
+    "ref" : "refs/heads/master",
+    "head" : "00a39f2897fa69c13ff96262a6281c87fa0f0cf0",
+    "before" : "cec6d92b0b6a19b9456a60ff10020bbd7b44f642",
+    "commits" : [ {
+      "sha" : "00a39f2897fa69c13ff96262a6281c87fa0f0cf0",
+      "author" : {
+        "email" : "javinor@gmail.com",
+        "name" : "javinor"
+      },
+      "message" : "update rules",
+      "distinct" : true,
+      "url" : "https://api.github.com/repos/javinor/eslint-config-javi/commits/00a39f2897fa69c13ff96262a6281c87fa0f0cf0"
+    } ]
+  },
+  "public" : true,
+  "created_at" : "2016-12-03T18:10:17Z"
+}, {
+  "id" : "4964283605",
+  "type" : "PushEvent",
+  "actor" : {
+    "id" : 5766483,
+    "login" : "javinor",
+    "display_login" : "javinor",
+    "gravatar_id" : "",
+    "url" : "https://api.github.com/users/javinor",
+    "avatar_url" : "https://avatars.githubusercontent.com/u/5766483?"
+  },
+  "repo" : {
+    "id" : 73973006,
+    "name" : "javinor/eslint-config-javi",
+    "url" : "https://api.github.com/repos/javinor/eslint-config-javi"
+  },
+  "payload" : {
+    "push_id" : 1436383751,
+    "size" : 1,
+    "distinct_size" : 1,
+    "ref" : "refs/heads/master",
+    "head" : "cec6d92b0b6a19b9456a60ff10020bbd7b44f642",
+    "before" : "a6e926e59b2242bbbc2879939cb3319a37b25af8",
+    "commits" : [ {
+      "sha" : "cec6d92b0b6a19b9456a60ff10020bbd7b44f642",
+      "author" : {
+        "email" : "javinor@gmail.com",
+        "name" : "javinor"
+      },
+      "message" : "remove dependecy version check",
+      "distinct" : true,
+      "url" : "https://api.github.com/repos/javinor/eslint-config-javi/commits/cec6d92b0b6a19b9456a60ff10020bbd7b44f642"
+    } ]
+  },
+  "public" : true,
+  "created_at" : "2016-12-03T17:54:07Z"
+}, {
+  "id" : "4964272207",
+  "type" : "PushEvent",
+  "actor" : {
+    "id" : 5766483,
+    "login" : "javinor",
+    "display_login" : "javinor",
+    "gravatar_id" : "",
+    "url" : "https://api.github.com/users/javinor",
+    "avatar_url" : "https://avatars.githubusercontent.com/u/5766483?"
+  },
+  "repo" : {
+    "id" : 73973006,
+    "name" : "javinor/eslint-config-javi",
+    "url" : "https://api.github.com/repos/javinor/eslint-config-javi"
+  },
+  "payload" : {
+    "push_id" : 1436378868,
+    "size" : 4,
+    "distinct_size" : 4,
+    "ref" : "refs/heads/master",
+    "head" : "a6e926e59b2242bbbc2879939cb3319a37b25af8",
+    "before" : "0eccaa214cc7ece15e3a5e9813d8c2086110e910",
+    "commits" : [ {
+      "sha" : "98e3d4c80f903d9ea3a97eee2fd7cacb7964b62f",
+      "author" : {
+        "email" : "javinor@gmail.com",
+        "name" : "javinor"
+      },
+      "message" : "remove editorconfig",
+      "distinct" : true,
+      "url" : "https://api.github.com/repos/javinor/eslint-config-javi/commits/98e3d4c80f903d9ea3a97eee2fd7cacb7964b62f"
+    }, {
+      "sha" : "f3d11a67ec58f56f46bae178f8f90fa1a3376a9c",
+      "author" : {
+        "email" : "javinor@gmail.com",
+        "name" : "javinor"
+      },
+      "message" : "split eslintrc into seperate files and folders",
+      "distinct" : true,
+      "url" : "https://api.github.com/repos/javinor/eslint-config-javi/commits/f3d11a67ec58f56f46bae178f8f90fa1a3376a9c"
+    }, {
+      "sha" : "b298766f4395e7896f8dc04eeb7024daaedfc4b2",
+      "author" : {
+        "email" : "javinor@gmail.com",
+        "name" : "javinor"
+      },
+      "message" : "get config from inner folders",
+      "distinct" : true,
+      "url" : "https://api.github.com/repos/javinor/eslint-config-javi/commits/b298766f4395e7896f8dc04eeb7024daaedfc4b2"
+    }, {
+      "sha" : "a6e926e59b2242bbbc2879939cb3319a37b25af8",
+      "author" : {
+        "email" : "javinor@gmail.com",
+        "name" : "javinor"
+      },
+      "message" : "use ava and remove tape, faucet",
+      "distinct" : true,
+      "url" : "https://api.github.com/repos/javinor/eslint-config-javi/commits/a6e926e59b2242bbbc2879939cb3319a37b25af8"
+    } ]
+  },
+  "public" : true,
+  "created_at" : "2016-12-03T17:46:22Z"
+}, {
+  "id" : "4960029507",
+  "type" : "PushEvent",
+  "actor" : {
+    "id" : 5766483,
+    "login" : "javinor",
+    "display_login" : "javinor",
+    "gravatar_id" : "",
+    "url" : "https://api.github.com/users/javinor",
+    "avatar_url" : "https://avatars.githubusercontent.com/u/5766483?"
+  },
+  "repo" : {
+    "id" : 74339405,
+    "name" : "javinor/snake-solver",
+    "url" : "https://api.github.com/repos/javinor/snake-solver"
+  },
+  "payload" : {
+    "push_id" : 1434910466,
+    "size" : 2,
+    "distinct_size" : 2,
+    "ref" : "refs/heads/master",
+    "head" : "c6f71ee1094fa6a4fcea9c3fa6a24c71c865c1c0",
+    "before" : "49bdd391d43223a8afe29ae04c953debab4ee926",
+    "commits" : [ {
+      "sha" : "4d95852fb8a327c2620fef0384734afd32ff0c6d",
+      "author" : {
+        "email" : "javinor@gmail.com",
+        "name" : "javinor"
+      },
+      "message" : "return path on first solution",
+      "distinct" : true,
+      "url" : "https://api.github.com/repos/javinor/snake-solver/commits/4d95852fb8a327c2620fef0384734afd32ff0c6d"
+    }, {
+      "sha" : "c6f71ee1094fa6a4fcea9c3fa6a24c71c865c1c0",
+      "author" : {
+        "email" : "javinor@gmail.com",
+        "name" : "javinor"
+      },
+      "message" : "seperate recursive step from setup",
+      "distinct" : true,
+      "url" : "https://api.github.com/repos/javinor/snake-solver/commits/c6f71ee1094fa6a4fcea9c3fa6a24c71c865c1c0"
+    } ]
+  },
+  "public" : true,
+  "created_at" : "2016-12-02T15:15:51Z"
+}, {
+  "id" : "4959689818",
+  "type" : "PushEvent",
+  "actor" : {
+    "id" : 5766483,
+    "login" : "javinor",
+    "display_login" : "javinor",
+    "gravatar_id" : "",
+    "url" : "https://api.github.com/users/javinor",
+    "avatar_url" : "https://avatars.githubusercontent.com/u/5766483?"
+  },
+  "repo" : {
+    "id" : 74339405,
+    "name" : "javinor/snake-solver",
+    "url" : "https://api.github.com/repos/javinor/snake-solver"
+  },
+  "payload" : {
+    "push_id" : 1434794777,
+    "size" : 2,
+    "distinct_size" : 2,
+    "ref" : "refs/heads/master",
+    "head" : "49bdd391d43223a8afe29ae04c953debab4ee926",
+    "before" : "a7bdfba3d841462454c947c0b35840191fc69646",
+    "commits" : [ {
+      "sha" : "789ee03f09c24317f14d8f248df2f2bfe10eb69a",
+      "author" : {
+        "email" : "javinor@gmail.com",
+        "name" : "javinor"
+      },
+      "message" : "ignore log files",
+      "distinct" : true,
+      "url" : "https://api.github.com/repos/javinor/snake-solver/commits/789ee03f09c24317f14d8f248df2f2bfe10eb69a"
+    }, {
+      "sha" : "49bdd391d43223a8afe29ae04c953debab4ee926",
+      "author" : {
+        "email" : "javinor@gmail.com",
+        "name" : "javinor"
+      },
+      "message" : "working solution for 3x3x3",
+      "distinct" : true,
+      "url" : "https://api.github.com/repos/javinor/snake-solver/commits/49bdd391d43223a8afe29ae04c953debab4ee926"
+    } ]
+  },
+  "public" : true,
+  "created_at" : "2016-12-02T14:16:29Z"
+}, {
+  "id" : "4898821714",
+  "type" : "PushEvent",
+  "actor" : {
+    "id" : 5766483,
+    "login" : "javinor",
+    "display_login" : "javinor",
+    "gravatar_id" : "",
+    "url" : "https://api.github.com/users/javinor",
+    "avatar_url" : "https://avatars.githubusercontent.com/u/5766483?"
+  },
+  "repo" : {
+    "id" : 74339405,
+    "name" : "javinor/snake-solver",
+    "url" : "https://api.github.com/repos/javinor/snake-solver"
+  },
+  "payload" : {
+    "push_id" : 1413737831,
+    "size" : 1,
+    "distinct_size" : 1,
+    "ref" : "refs/heads/master",
+    "head" : "a7bdfba3d841462454c947c0b35840191fc69646",
+    "before" : "ab278cebb9d1f2363d4bdbb9725fff95efa68b3d",
+    "commits" : [ {
+      "sha" : "a7bdfba3d841462454c947c0b35840191fc69646",
+      "author" : {
+        "email" : "javinor@gmail.com",
+        "name" : "javinor"
+      },
+      "message" : "Create README.md",
+      "distinct" : true,
+      "url" : "https://api.github.com/repos/javinor/snake-solver/commits/a7bdfba3d841462454c947c0b35840191fc69646"
+    } ]
+  },
+  "public" : true,
+  "created_at" : "2016-11-21T07:54:36Z"
+}, {
+  "id" : "4898819040",
+  "type" : "CreateEvent",
+  "actor" : {
+    "id" : 5766483,
+    "login" : "javinor",
+    "display_login" : "javinor",
+    "gravatar_id" : "",
+    "url" : "https://api.github.com/users/javinor",
+    "avatar_url" : "https://avatars.githubusercontent.com/u/5766483?"
+  },
+  "repo" : {
+    "id" : 74339405,
+    "name" : "javinor/snake-solver",
+    "url" : "https://api.github.com/repos/javinor/snake-solver"
+  },
+  "payload" : {
+    "ref" : "master",
+    "ref_type" : "branch",
+    "master_branch" : "master",
+    "description" : null,
+    "pusher_type" : "user"
+  },
+  "public" : true,
+  "created_at" : "2016-11-21T07:53:47Z"
+}, {
+  "id" : "4898818464",
+  "type" : "CreateEvent",
+  "actor" : {
+    "id" : 5766483,
+    "login" : "javinor",
+    "display_login" : "javinor",
+    "gravatar_id" : "",
+    "url" : "https://api.github.com/users/javinor",
+    "avatar_url" : "https://avatars.githubusercontent.com/u/5766483?"
+  },
+  "repo" : {
+    "id" : 74339405,
+    "name" : "javinor/snake-solver",
+    "url" : "https://api.github.com/repos/javinor/snake-solver"
+  },
+  "payload" : {
+    "ref" : null,
+    "ref_type" : "repository",
+    "master_branch" : "master",
+    "description" : null,
+    "pusher_type" : "user"
+  },
+  "public" : true,
+  "created_at" : "2016-11-21T07:53:36Z"
+}, {
+  "id" : "4881066796",
+  "type" : "PushEvent",
+  "actor" : {
+    "id" : 5766483,
+    "login" : "javinor",
+    "display_login" : "javinor",
+    "gravatar_id" : "",
+    "url" : "https://api.github.com/users/javinor",
+    "avatar_url" : "https://avatars.githubusercontent.com/u/5766483?"
+  },
+  "repo" : {
+    "id" : 73868905,
+    "name" : "javinor/koch",
+    "url" : "https://api.github.com/repos/javinor/koch"
+  },
+  "payload" : {
+    "push_id" : 1407416684,
+    "size" : 1,
+    "distinct_size" : 1,
+    "ref" : "refs/heads/master",
+    "head" : "08eca3560a3799408806a83a0fc76be996f570f9",
+    "before" : "b193a63ab7c7398d95a10ae70310dc6d0816eb9e",
+    "commits" : [ {
+      "sha" : "08eca3560a3799408806a83a0fc76be996f570f9",
+      "author" : {
+        "email" : "javinor@gmail.com",
+        "name" : "javinor"
+      },
+      "message" : "update README",
+      "distinct" : true,
+      "url" : "https://api.github.com/repos/javinor/koch/commits/08eca3560a3799408806a83a0fc76be996f570f9"
+    } ]
+  },
+  "public" : true,
+  "created_at" : "2016-11-17T02:32:30Z"
+}, {
+  "id" : "4881053226",
+  "type" : "PushEvent",
+  "actor" : {
+    "id" : 5766483,
+    "login" : "javinor",
+    "display_login" : "javinor",
+    "gravatar_id" : "",
+    "url" : "https://api.github.com/users/javinor",
+    "avatar_url" : "https://avatars.githubusercontent.com/u/5766483?"
+  },
+  "repo" : {
+    "id" : 73868905,
+    "name" : "javinor/koch",
+    "url" : "https://api.github.com/repos/javinor/koch"
+  },
+  "payload" : {
+    "push_id" : 1407412128,
+    "size" : 3,
+    "distinct_size" : 3,
+    "ref" : "refs/heads/master",
+    "head" : "b193a63ab7c7398d95a10ae70310dc6d0816eb9e",
+    "before" : "3048e5abf639f606779c9d2e87518d0258c3970e",
+    "commits" : [ {
+      "sha" : "529f68d51b5462f7d7a38fceed3ccb0df07003ac",
+      "author" : {
+        "email" : "javinor@gmail.com",
+        "name" : "javinor"
+      },
+      "message" : "add eslint",
+      "distinct" : true,
+      "url" : "https://api.github.com/repos/javinor/koch/commits/529f68d51b5462f7d7a38fceed3ccb0df07003ac"
+    }, {
+      "sha" : "b97719ba7133bda203b77e5b307175f3617b3515",
+      "author" : {
+        "email" : "javinor@gmail.com",
+        "name" : "javinor"
+      },
+      "message" : "finished linting",
+      "distinct" : true,
+      "url" : "https://api.github.com/repos/javinor/koch/commits/b97719ba7133bda203b77e5b307175f3617b3515"
+    }, {
+      "sha" : "b193a63ab7c7398d95a10ae70310dc6d0816eb9e",
+      "author" : {
+        "email" : "javinor@gmail.com",
+        "name" : "javinor"
+      },
+      "message" : "deploy minor tweaks",
+      "distinct" : true,
+      "url" : "https://api.github.com/repos/javinor/koch/commits/b193a63ab7c7398d95a10ae70310dc6d0816eb9e"
+    } ]
+  },
+  "public" : true,
+  "created_at" : "2016-11-17T02:28:22Z"
+}, {
+  "id" : "4880588589",
+  "type" : "PushEvent",
+  "actor" : {
+    "id" : 5766483,
+    "login" : "javinor",
+    "display_login" : "javinor",
+    "gravatar_id" : "",
+    "url" : "https://api.github.com/users/javinor",
+    "avatar_url" : "https://avatars.githubusercontent.com/u/5766483?"
+  },
+  "repo" : {
+    "id" : 73973006,
+    "name" : "javinor/eslint-config-javi",
+    "url" : "https://api.github.com/repos/javinor/eslint-config-javi"
+  },
+  "payload" : {
+    "push_id" : 1407269279,
+    "size" : 1,
+    "distinct_size" : 1,
+    "ref" : "refs/heads/master",
+    "head" : "0eccaa214cc7ece15e3a5e9813d8c2086110e910",
+    "before" : "8ea387ed1cc8c6252eea04f25af22df1650fc93f",
+    "commits" : [ {
+      "sha" : "0eccaa214cc7ece15e3a5e9813d8c2086110e910",
+      "author" : {
+        "email" : "javinor@gmail.com",
+        "name" : "javinor"
+      },
+      "message" : "Update README.md",
+      "distinct" : true,
+      "url" : "https://api.github.com/repos/javinor/eslint-config-javi/commits/0eccaa214cc7ece15e3a5e9813d8c2086110e910"
+    } ]
+  },
+  "public" : true,
+  "created_at" : "2016-11-17T00:21:43Z"
+}, {
+  "id" : "4880563138",
+  "type" : "PushEvent",
+  "actor" : {
+    "id" : 5766483,
+    "login" : "javinor",
+    "display_login" : "javinor",
+    "gravatar_id" : "",
+    "url" : "https://api.github.com/users/javinor",
+    "avatar_url" : "https://avatars.githubusercontent.com/u/5766483?"
+  },
+  "repo" : {
+    "id" : 73973006,
+    "name" : "javinor/eslint-config-javi",
+    "url" : "https://api.github.com/repos/javinor/eslint-config-javi"
+  },
+  "payload" : {
+    "push_id" : 1407261974,
+    "size" : 1,
+    "distinct_size" : 1,
+    "ref" : "refs/heads/master",
+    "head" : "8ea387ed1cc8c6252eea04f25af22df1650fc93f",
+    "before" : "e97a7313ec07ceaaef4f75ea56d4dcfa94de141f",
+    "commits" : [ {
+      "sha" : "8ea387ed1cc8c6252eea04f25af22df1650fc93f",
+      "author" : {
+        "email" : "javinor@gmail.com",
+        "name" : "javinor"
+      },
+      "message" : "Update README.md",
+      "distinct" : true,
+      "url" : "https://api.github.com/repos/javinor/eslint-config-javi/commits/8ea387ed1cc8c6252eea04f25af22df1650fc93f"
+    } ]
+  },
+  "public" : true,
+  "created_at" : "2016-11-17T00:15:30Z"
+}, {
+  "id" : "4880548853",
+  "type" : "CreateEvent",
+  "actor" : {
+    "id" : 5766483,
+    "login" : "javinor",
+    "display_login" : "javinor",
+    "gravatar_id" : "",
+    "url" : "https://api.github.com/users/javinor",
+    "avatar_url" : "https://avatars.githubusercontent.com/u/5766483?"
+  },
+  "repo" : {
+    "id" : 73973006,
+    "name" : "javinor/eslint-config-javi",
+    "url" : "https://api.github.com/repos/javinor/eslint-config-javi"
+  },
+  "payload" : {
+    "ref" : "master",
+    "ref_type" : "branch",
+    "master_branch" : "master",
+    "description" : null,
+    "pusher_type" : "user"
+  },
+  "public" : true,
+  "created_at" : "2016-11-17T00:12:02Z"
+}, {
+  "id" : "4880548008",
+  "type" : "CreateEvent",
+  "actor" : {
+    "id" : 5766483,
+    "login" : "javinor",
+    "display_login" : "javinor",
+    "gravatar_id" : "",
+    "url" : "https://api.github.com/users/javinor",
+    "avatar_url" : "https://avatars.githubusercontent.com/u/5766483?"
+  },
+  "repo" : {
+    "id" : 73973006,
+    "name" : "javinor/eslint-config-javi",
+    "url" : "https://api.github.com/repos/javinor/eslint-config-javi"
+  },
+  "payload" : {
+    "ref" : null,
+    "ref_type" : "repository",
+    "master_branch" : "master",
+    "description" : null,
+    "pusher_type" : "user"
+  },
+  "public" : true,
+  "created_at" : "2016-11-17T00:11:49Z"
+}, {
+  "id" : "4873986606",
+  "type" : "PushEvent",
+  "actor" : {
+    "id" : 5766483,
+    "login" : "javinor",
+    "display_login" : "javinor",
+    "gravatar_id" : "",
+    "url" : "https://api.github.com/users/javinor",
+    "avatar_url" : "https://avatars.githubusercontent.com/u/5766483?"
+  },
+  "repo" : {
+    "id" : 73868905,
+    "name" : "javinor/koch",
+    "url" : "https://api.github.com/repos/javinor/koch"
+  },
+  "payload" : {
+    "push_id" : 1405124156,
+    "size" : 1,
+    "distinct_size" : 1,
+    "ref" : "refs/heads/master",
+    "head" : "3048e5abf639f606779c9d2e87518d0258c3970e",
+    "before" : "79374e8ef4edc12772d98dc367c6218a1ade1b31",
+    "commits" : [ {
+      "sha" : "3048e5abf639f606779c9d2e87518d0258c3970e",
+      "author" : {
+        "email" : "javinor@gmail.com",
+        "name" : "javinor"
+      },
+      "message" : "Update README.md",
+      "distinct" : true,
+      "url" : "https://api.github.com/repos/javinor/koch/commits/3048e5abf639f606779c9d2e87518d0258c3970e"
+    } ]
+  },
+  "public" : true,
+  "created_at" : "2016-11-16T02:29:02Z"
+}, {
+  "id" : "4873982497",
+  "type" : "PushEvent",
+  "actor" : {
+    "id" : 5766483,
+    "login" : "javinor",
+    "display_login" : "javinor",
+    "gravatar_id" : "",
+    "url" : "https://api.github.com/users/javinor",
+    "avatar_url" : "https://avatars.githubusercontent.com/u/5766483?"
+  },
+  "repo" : {
+    "id" : 73868905,
+    "name" : "javinor/koch",
+    "url" : "https://api.github.com/repos/javinor/koch"
+  },
+  "payload" : {
+    "push_id" : 1405122772,
+    "size" : 1,
+    "distinct_size" : 1,
+    "ref" : "refs/heads/master",
+    "head" : "79374e8ef4edc12772d98dc367c6218a1ade1b31",
+    "before" : "43f3a2989dc2b45241334695debd2453920e3c0a",
+    "commits" : [ {
+      "sha" : "79374e8ef4edc12772d98dc367c6218a1ade1b31",
+      "author" : {
+        "email" : "javinor@gmail.com",
+        "name" : "javinor"
+      },
+      "message" : "resize, styling and small cleanups",
+      "distinct" : true,
+      "url" : "https://api.github.com/repos/javinor/koch/commits/79374e8ef4edc12772d98dc367c6218a1ade1b31"
+    } ]
+  },
+  "public" : true,
+  "created_at" : "2016-11-16T02:27:47Z"
+}, {
+  "id" : "4873739802",
+  "type" : "PushEvent",
+  "actor" : {
+    "id" : 5766483,
+    "login" : "javinor",
+    "display_login" : "javinor",
+    "gravatar_id" : "",
+    "url" : "https://api.github.com/users/javinor",
+    "avatar_url" : "https://avatars.githubusercontent.com/u/5766483?"
+  },
+  "repo" : {
+    "id" : 73868905,
+    "name" : "javinor/koch",
+    "url" : "https://api.github.com/repos/javinor/koch"
+  },
+  "payload" : {
+    "push_id" : 1405042462,
+    "size" : 1,
+    "distinct_size" : 1,
+    "ref" : "refs/heads/master",
+    "head" : "43f3a2989dc2b45241334695debd2453920e3c0a",
+    "before" : "c55794175b92426d516e3bd33d1bf41b05b9bafc",
+    "commits" : [ {
+      "sha" : "43f3a2989dc2b45241334695debd2453920e3c0a",
+      "author" : {
+        "email" : "javinor@gmail.com",
+        "name" : "javinor"
+      },
+      "message" : "removing logic from canvas",
+      "distinct" : true,
+      "url" : "https://api.github.com/repos/javinor/koch/commits/43f3a2989dc2b45241334695debd2453920e3c0a"
+    } ]
+  },
+  "public" : true,
+  "created_at" : "2016-11-16T01:18:59Z"
+}, {
+  "id" : "4873647405",
+  "type" : "PushEvent",
+  "actor" : {
+    "id" : 5766483,
+    "login" : "javinor",
+    "display_login" : "javinor",
+    "gravatar_id" : "",
+    "url" : "https://api.github.com/users/javinor",
+    "avatar_url" : "https://avatars.githubusercontent.com/u/5766483?"
+  },
+  "repo" : {
+    "id" : 73868905,
+    "name" : "javinor/koch",
+    "url" : "https://api.github.com/repos/javinor/koch"
+  },
+  "payload" : {
+    "push_id" : 1405013046,
+    "size" : 1,
+    "distinct_size" : 1,
+    "ref" : "refs/heads/master",
+    "head" : "c55794175b92426d516e3bd33d1bf41b05b9bafc",
+    "before" : "c0aaa5bccf75ab61a1f1c9af1dac96a78a6548c8",
+    "commits" : [ {
+      "sha" : "c55794175b92426d516e3bd33d1bf41b05b9bafc",
+      "author" : {
+        "email" : "javinor@gmail.com",
+        "name" : "javinor"
+      },
+      "message" : "Update README.md",
+      "distinct" : true,
+      "url" : "https://api.github.com/repos/javinor/koch/commits/c55794175b92426d516e3bd33d1bf41b05b9bafc"
+    } ]
+  },
+  "public" : true,
+  "created_at" : "2016-11-16T00:55:10Z"
+}, {
+  "id" : "4873627850",
+  "type" : "CreateEvent",
+  "actor" : {
+    "id" : 5766483,
+    "login" : "javinor",
+    "display_login" : "javinor",
+    "gravatar_id" : "",
+    "url" : "https://api.github.com/users/javinor",
+    "avatar_url" : "https://avatars.githubusercontent.com/u/5766483?"
+  },
+  "repo" : {
+    "id" : 73868905,
+    "name" : "javinor/koch",
+    "url" : "https://api.github.com/repos/javinor/koch"
+  },
+  "payload" : {
+    "ref" : "master",
+    "ref_type" : "branch",
+    "master_branch" : "master",
+    "description" : null,
+    "pusher_type" : "user"
+  },
+  "public" : true,
+  "created_at" : "2016-11-16T00:50:08Z"
+}, {
+  "id" : "4873626763",
+  "type" : "CreateEvent",
+  "actor" : {
+    "id" : 5766483,
+    "login" : "javinor",
+    "display_login" : "javinor",
+    "gravatar_id" : "",
+    "url" : "https://api.github.com/users/javinor",
+    "avatar_url" : "https://avatars.githubusercontent.com/u/5766483?"
+  },
+  "repo" : {
+    "id" : 73868905,
+    "name" : "javinor/koch",
+    "url" : "https://api.github.com/repos/javinor/koch"
+  },
+  "payload" : {
+    "ref" : null,
+    "ref_type" : "repository",
+    "master_branch" : "master",
+    "description" : null,
+    "pusher_type" : "user"
+  },
+  "public" : true,
+  "created_at" : "2016-11-16T00:49:50Z"
+}, {
+  "id" : "4873622550",
+  "type" : "CreateEvent",
+  "actor" : {
+    "id" : 5766483,
+    "login" : "javinor",
+    "display_login" : "javinor",
+    "gravatar_id" : "",
+    "url" : "https://api.github.com/users/javinor",
+    "avatar_url" : "https://avatars.githubusercontent.com/u/5766483?"
+  },
+  "repo" : {
+    "id" : 73868848,
+    "name" : "javinor/koch",
+    "url" : "https://api.github.com/repos/javinor/koch"
+  },
+  "payload" : {
+    "ref" : "master",
+    "ref_type" : "branch",
+    "master_branch" : "master",
+    "description" : null,
+    "pusher_type" : "user"
+  },
+  "public" : true,
+  "created_at" : "2016-11-16T00:48:45Z"
+}, {
+  "id" : "4873622542",
+  "type" : "CreateEvent",
+  "actor" : {
+    "id" : 5766483,
+    "login" : "javinor",
+    "display_login" : "javinor",
+    "gravatar_id" : "",
+    "url" : "https://api.github.com/users/javinor",
+    "avatar_url" : "https://avatars.githubusercontent.com/u/5766483?"
+  },
+  "repo" : {
+    "id" : 73868848,
+    "name" : "javinor/koch",
+    "url" : "https://api.github.com/repos/javinor/koch"
+  },
+  "payload" : {
+    "ref" : null,
+    "ref_type" : "repository",
+    "master_branch" : "master",
+    "description" : null,
+    "pusher_type" : "user"
+  },
+  "public" : true,
+  "created_at" : "2016-11-16T00:48:45Z"
+} ]

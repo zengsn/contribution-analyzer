@@ -1,0 +1,20 @@
+{
+  "login" : "javinor",
+  "id" : 5766483,
+  "avatar_url" : "https://avatars.githubusercontent.com/u/5766483?v=3",
+  "gravatar_id" : "",
+  "url" : "https://api.github.com/users/javinor",
+  "html_url" : "https://github.com/javinor",
+  "followers_url" : "https://api.github.com/users/javinor/followers",
+  "following_url" : "https://api.github.com/users/javinor/following{/other_user}",
+  "gists_url" : "https://api.github.com/users/javinor/gists{/gist_id}",
+  "starred_url" : "https://api.github.com/users/javinor/starred{/owner}{/repo}",
+  "subscriptions_url" : "https://api.github.com/users/javinor/subscriptions",
+  "organizations_url" : "https://api.github.com/users/javinor/orgs",
+  "repos_url" : "https://api.github.com/users/javinor/repos",
+  "events_url" : "https://api.github.com/users/javinor/events{/privacy}",
+  "received_events_url" : "https://api.github.com/users/javinor/received_events",
+  "type" : "User",
+  "site_admin" : false,
+  "pulltime" : "2013-10-26T11:00:05Z"
+}
